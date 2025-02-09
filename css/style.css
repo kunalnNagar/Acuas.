@@ -808,7 +808,7 @@ img{
 /* 404 page */
 .pg-404{
     text-align: center;
-    padding: 120px;
+    padding: 120px 24px;
 }
 .pg-404 h3{
     color: #00d1f9;
